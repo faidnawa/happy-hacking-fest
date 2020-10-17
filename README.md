@@ -1,2 +1,3 @@
-# happy-hacking-fest
-#https://github.com/topics/hacktoberfest
+Happy Hacking Repository
+SELAMAT MENJALANKAN HACKTOBERFEST 2020 😄
+Repo ini digunakan untuk meramaikan hacktoberfest 2020
