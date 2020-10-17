@@ -4,3 +4,4 @@ Repo ini digunakan untuk meramaikan hacktoberfest 2020
 ## Processor : Intel Core i5 8250U 1.6-3.4GHz
 ## IGPU : Intel UHD Graphics 620
 ## RAM : 8GB DDR4 PC19200
+## Storage : M2 NVMe Adata SX8200 Pro 256GB + HDD seagate 1TB
